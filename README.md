@@ -1,6 +1,6 @@
 # Meetless Feedback
 
-Public feedback tracker for [Meetless](https://meetless.com) — the change control plane for product delivery.
+Public feedback tracker for [Meetless](https://meetless.com) — the version control for product change.
 
 **[Join the Meetless Community on Slack](https://meetless.slack.com)** — ask questions, share workflows, and see Decision Diffs happening live.
 

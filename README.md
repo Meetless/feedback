@@ -2,7 +2,7 @@
 
 Public feedback tracker for [Meetless](https://meetless.com) — the version control for product change.
 
-**[Join the Meetless Community on Slack](https://meetless.slack.com)** — ask questions, share workflows, and see Decision Diffs happening live.
+**[Join the Meetless Community on Slack](https://join.slack.com/t/meetless/shared_invite/zt-3qofaf1di-2hRqBAtnyrTWAos0MQ5dzQ)** — ask questions, share workflows, and see Decision Diffs happening live.
 
 ---
 
@@ -41,7 +41,7 @@ You'll get GitHub notifications at every status change if you're subscribed to t
 
 This repo is for structured feedback. For real-time conversation, help, and seeing Meetless in action:
 
-- **[Slack Community](https://meetless.slack.com)** — `#support` for help, `#feedback` for ideas, `#meetless-live` to watch Decision Diffs happen in real-time
+- **[Slack Community](https://join.slack.com/t/meetless/shared_invite/zt-3qofaf1di-2hRqBAtnyrTWAos0MQ5dzQ)** — `#support` for help, `#feedback` for ideas, `#meetless-live` to watch Decision Diffs happen in real-time
 - **[File an Issue](../../issues/new/choose)** — bugs, ideas, and complaints tracked transparently
 
 Every issue you file here gets triaged, worked on, and closed with a link to what shipped. Your feedback directly shapes the product.

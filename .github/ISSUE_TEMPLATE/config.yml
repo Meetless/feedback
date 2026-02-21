@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Discord Community
-    url: https://discord.gg/meetless
-    about: Chat with us directly on Discord
+  - name: Slack Community
+    url: https://meetless.slack.com
+    about: Join the Meetless community on Slack — ask questions, share wins, see the product live

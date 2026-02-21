@@ -2,6 +2,10 @@
 
 Public feedback tracker for [Meetless](https://meetless.com) — the change control plane for product delivery.
 
+**[Join the Meetless Community on Slack](https://meetless.slack.com)** — ask questions, share workflows, and see Decision Diffs happening live.
+
+---
+
 ## How to submit feedback
 
 Click **[New Issue](../../issues/new/choose)** and pick a template:
@@ -32,6 +36,15 @@ Severity labels (`severity:critical` through `severity:low`) are added during tr
 Once an issue is marked `accepted`, our team picks it up, creates a fix or feature in our private repo, and links the PR back here. When the PR merges, the issue gets closed with a comment explaining what shipped.
 
 You'll get GitHub notifications at every status change if you're subscribed to the issue.
+
+## Join the community
+
+This repo is for structured feedback. For real-time conversation, help, and seeing Meetless in action:
+
+- **[Slack Community](https://meetless.slack.com)** — `#support` for help, `#feedback` for ideas, `#meetless-live` to watch Decision Diffs happen in real-time
+- **[File an Issue](../../issues/new/choose)** — bugs, ideas, and complaints tracked transparently
+
+Every issue you file here gets triaged, worked on, and closed with a link to what shipped. Your feedback directly shapes the product.
 
 ## License
 

@@ -41,6 +41,7 @@ You'll get GitHub notifications at every status change if you're subscribed to t
 
 This repo is for structured feedback. For real-time conversation, help, and seeing Meetless in action:
 
+- **[Blog](https://blog.meetless.ai)** — what we are building, why, and what we are learning
 - **[Slack Community](https://join.slack.com/t/meetless/shared_invite/zt-3qofaf1di-2hRqBAtnyrTWAos0MQ5dzQ)** — `#support` for help, `#feedback` for ideas, `#meetless-live` to watch Decision Diffs happen in real-time
 - **[File an Issue](../../issues/new/choose)** — bugs, ideas, and complaints tracked transparently
 
